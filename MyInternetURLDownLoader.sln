@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastDownLoad", "FastDownLoad\FastDownLoad.csproj", "{CAF0D462-C249-46CC-A118-95BEAB8F9EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loaction", "Loaction\Loaction.csproj", "{4EBB6FA6-4483-4DEF-B846-6BC114698057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF0D462-C249-46CC-A118-95BEAB8F9EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF0D462-C249-46CC-A118-95BEAB8F9EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF0D462-C249-46CC-A118-95BEAB8F9EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF0D462-C249-46CC-A118-95BEAB8F9EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBB6FA6-4483-4DEF-B846-6BC114698057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBB6FA6-4483-4DEF-B846-6BC114698057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBB6FA6-4483-4DEF-B846-6BC114698057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBB6FA6-4483-4DEF-B846-6BC114698057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DFB337F-C0FD-4D4B-B55E-B2E865C90ED6}
+	EndGlobalSection
+EndGlobal
